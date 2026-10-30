@@ -1,8 +1,9 @@
 # Hi, I'm Gloria 👋
-NQF L4 Software Development student @DynamicDNA, Randburg.
+NQF L4 Systems Development student @DynamicDNA, Randburg.
 ###Skills
--Python, SQL
--HTML, CSS, JavaScript
+-Python, SQL (in progress)
+-HTML, CSS, JavaScript (in progress)
+- c#
 -Github
 ### Currently
 - Learning Github & building my portfolio
