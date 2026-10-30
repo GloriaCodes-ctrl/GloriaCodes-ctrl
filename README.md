@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Gloria 👋
+NQF L4 Software Development student @DynamicDNA, Randburg.
+###Skills
+-Python, SQL
+-HTML, CSS, JavaScript
+-Github
+### Currently
+- Learning Github & building my portfolio
+- Planning to study Diploma In IT @ UNISA(2027
+### How to reach me
+- GitHub: @GloriaCodes-ctrl
+- Location: Randburg, South Africa
 
-<!--
-**GloriaCodes-ctrl/GloriaCodes-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goal
+Aspiring Junior Developer ~ Open to learn & collaborate
